@@ -1,0 +1,7 @@
+# Sentimentanalysis
+
+6000 people take to Twitter every minute to express an opinion, or share a piece of information however few number of these tweets can be problematic.
+
+By creating a sentiment analysis algorithm that can regulate problematic content on a social media platform like twitter could help to solve this problem.
+
+So the task is to develop a sentiment analysis algorithm to identify and flag problematic Tweets on Twitter.
